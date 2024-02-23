@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-14T02:41:56 IST" name="Suite" finished-at="2024-02-14T02:44:07 IST" duration-ms="131086">
+    <groups>
+    </groups>
+    <test started-at="2024-02-14T02:41:56 IST" name="Test" finished-at="2024-02-14T02:44:07 IST" duration-ms="131086">
+      <class name="testcases.TC_002_newsAndCount">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_002_newsAndCount@4f80542f]" started-at="2024-02-14T02:42:16 IST" name="setup" finished-at="2024-02-14T02:42:23 IST" duration-ms="7304" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="news_details()[pri:0, instance:testcases.TC_002_newsAndCount@4f80542f]" started-at="2024-02-14T02:42:23 IST" name="news_details" finished-at="2024-02-14T02:42:31 IST" duration-ms="7996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- news_details -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.TC_002_newsAndCount@4f80542f]" started-at="2024-02-14T02:42:31 IST" name="tearDown" finished-at="2024-02-14T02:42:32 IST" duration-ms="1299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TC_002_newsAndCount -->
+      <class name="testcases.TC_001_VerifyUserDetail">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_001_VerifyUserDetail@771a660]" started-at="2024-02-14T02:41:56 IST" name="setup" finished-at="2024-02-14T02:42:07 IST" duration-ms="11149" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Verify_account_details()[pri:0, instance:testcases.TC_001_VerifyUserDetail@771a660]" started-at="2024-02-14T02:42:07 IST" name="Verify_account_details" finished-at="2024-02-14T02:42:14 IST" duration-ms="6937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_account_details -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.TC_001_VerifyUserDetail@771a660]" started-at="2024-02-14T02:42:14 IST" name="tearDown" finished-at="2024-02-14T02:42:16 IST" duration-ms="1237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TC_001_VerifyUserDetail -->
+      <class name="testcases.TC_004_allapps_and_tools">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_004_allapps_and_tools@121314f7]" started-at="2024-02-14T02:43:50 IST" name="setup" finished-at="2024-02-14T02:43:58 IST" duration-ms="8068" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="apps_tools()[pri:1, instance:testcases.TC_004_allapps_and_tools@121314f7]" started-at="2024-02-14T02:43:58 IST" name="apps_tools" finished-at="2024-02-14T02:44:05 IST" duration-ms="6895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apps_tools -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.TC_004_allapps_and_tools@121314f7]" started-at="2024-02-14T02:44:05 IST" name="tearDown" finished-at="2024-02-14T02:44:07 IST" duration-ms="1298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TC_004_allapps_and_tools -->
+      <class name="testcases.TC_003_clickNewsAndValidating">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_003_clickNewsAndValidating@60bd273d]" started-at="2024-02-14T02:42:32 IST" name="setup" finished-at="2024-02-14T02:42:45 IST" duration-ms="13054" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clicking_news()[pri:0, instance:testcases.TC_003_clickNewsAndValidating@60bd273d]" started-at="2024-02-14T02:42:45 IST" name="clicking_news" finished-at="2024-02-14T02:43:49 IST" duration-ms="63851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clicking_news -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.TC_003_clickNewsAndValidating@60bd273d]" started-at="2024-02-14T02:43:49 IST" name="tearDown" finished-at="2024-02-14T02:43:50 IST" duration-ms="1230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TC_003_clickNewsAndValidating -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
